@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-newline-before-paren",
+  "version": "1.0.0",
+  "description": "ESLint rule to disallow newlines before parenthesis on single lines.",
+  "main": "index.js",
+  "author": "Pat Herlihy <pat841@bu.edu>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pat841/eslint-plugin-newline-before-paren"
+  },
+  "bugs": {
+    "url": "https://github.com/pat841/eslint-plugin-newline-before-paren/issues"
+  },
+  "homepage": "https://github.com/pat841/eslint-plugin-newline-before-paren",
+  "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 5.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "peerDependencies": {
+    "eslint": ">=3.0.0"
+  }
+}
